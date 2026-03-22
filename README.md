@@ -107,8 +107,6 @@ docker run -dit -p 4000:4000 rituraj4164/flask-app:latest
 
 > 🪶 Using a `slim` Python base image keeps the image size minimal
 
-> 🚀 For production, consider replacing Flask's dev server with **Gunicorn**
-
 ---
 
 ## ✅ Result
