@@ -1,4 +1,4 @@
-# 🐳 Assignment-1: Containerize a Python Flask Application
+# 🐳 Containerizing a Flask App from Scratch
 
 <div align="center">
 
